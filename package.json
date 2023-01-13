@@ -5,7 +5,7 @@
   "description": "This is an experiment to test out Cloud Run with a simple Node.JS web server.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "author": "",
   "license": "ISC",
