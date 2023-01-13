@@ -1,0 +1,15 @@
+{
+  "name": "node-cloud-run",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "This is an experiment to test out Cloud Run with a simple Node.JS web server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
