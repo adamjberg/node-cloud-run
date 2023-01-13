@@ -3,7 +3,7 @@ import express from "express";
 const app = express();
 
 app.get("/", (req, res) => {
-  res.send("Fake broken build")
+  res.send("Hello World!")
 })
 
 app.listen(80);
